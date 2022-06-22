@@ -1,0 +1,214 @@
+/* Google fonts */
+@import url(https://fonts.google.com/);
+
+/* ====Global==== */
+* {
+    margin: 0;
+    margin-left: 1;
+    margin-right: 1;
+    padding: 0;
+    box-sizing: border-box
+}
+
+header {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("./gg.jpg");
+    background-repeat: none ;
+    background-position: bottom;
+    background-size: cover;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+ul {
+    width: auto;
+    float: right;
+    margin-top: 8px;
+}
+
+li{
+    display: inline-block;
+    padding: 15px 30px;
+}
+
+a{
+    text-align: center;
+    color: #000000;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2vw;
+}
+
+a:hover{
+    color:rgba(0, 0, 0, 0.1);
+    transition: 0.5s;
+}
+
+.header-content {
+    margin-bottom: 330px;
+    color: #000000;
+    text-align: center;
+}
+
+.header-content h2{
+    font-size: 4vmin;
+}
+
+.line {
+    width: 150px;
+    height: 4px;
+    background: rgb(235, 11, 40);
+    margin: 10px auto;
+    border-radius: 5px;
+}
+
+.header-content h1 {
+    font-size: 7vmin;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+/*E-books*/
+section {
+    width: 80%;
+    margin: 80px auto;
+
+
+}
+.title {
+    text-align: center;
+    font-size: 4vmin;
+    color: #000000;
+    align-items: center;
+}
+
+.content-table{
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9cm;
+    min-width: 400px;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.content-table thead tr {
+    background-color: #009879;
+    font-size: larger;
+    color: bisque;
+    text-align: left;
+    font-weight: bold;
+}
+
+.content-table th,
+.content-table td {
+    font-size: large;
+    padding: 12px 15px;
+}
+
+.content-table tbody tr {
+    font-size: large;
+    border-bottom: 1px solid #dddddd;
+}
+
+.content-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.content-table tbody tr:last-of-type{
+    border-bottom: 2px solid #009879;
+}
+
+.content-table tbody tr.active-row {
+    font-weight: bold;
+    color: #009879;
+}
+
+.title2 {
+    width: 100%;
+    height: 80vh;
+    background-image: url("./bgg.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-size: 4vmin;
+    color: #000000;
+    display: flex;
+}
+
+.title2-content .line2 {
+    width: 150px;
+    height: 4px;
+    background: rgb(235, 11, 40);
+    margin: 10px auto;
+    border-radius: 5px;
+}
+
+.title2-content {
+    width: 60%;
+    padding: 50px;
+    color: #000000;
+    display: flex;
+}
+
+.title2-content h1 {
+    font-size: 7vmin;
+    margin: 50px;
+}
+
+.title2-content p{
+    color: navy;
+
+}
+
+.title3 {
+    text-align: center;
+    font-size: 4vmin;
+    color: #000000;
+    align-items: center;
+}
+
+.content-newtable{
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9cm;
+    min-width: 400px;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.content-newtable thead tr {
+    background-color: #009879;
+    font-size: larger;
+    color: bisque;
+    text-align: left;
+    font-weight: bold;
+}
+
+.content-newtable th,
+.content-newtable td {
+    font-size: large;
+    padding: 12px 15px;
+}
+
+.content-newtable tbody tr {
+    font-size: large;
+    border-bottom: 1px solid #dddddd;
+}
+
+.content-newtable tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.content-newtable tbody tr:last-of-type{
+    border-bottom: 2px solid #009879;
+}
+
+.content-newtable tbody tr.active-row {
+    font-weight: bold;
+    color: #009879;
+}
