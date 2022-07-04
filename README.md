@@ -10,4 +10,4 @@ resources to know about their college and the life ahead. Looking into the matte
 for an overview of the college life and free resources to excel the exams and coming journey.
 
 
-![zosh.jpg](https://dt00722.github.io/website.github.io/)
+![socie.jpg](https://dt00722.github.io/website.github.io/)
