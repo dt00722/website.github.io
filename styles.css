@@ -184,3 +184,48 @@ z-index: 11;
   color: rgba(0, 0, 0, 0.5);
 }
 
+
+
+
+ /* sm->extra small devices-> portrait phones*/
+  @media (max-width: 575.98px) {
+    .logo{
+      width: 65px;
+      left: 15px;
+      top: 30px;
+      bottom: 15px;
+    }
+    .tytle h1{
+      padding-left: 50px;
+    }
+    .tytle h3{
+      padding-left: 68px;
+      font-size: 1.10em;
+    }
+    .navbarr{
+      display: none;
+    }
+    .visible .my-picture{
+      width: 80%;
+    }
+    .btn{
+      margin-top: 20px;
+    }
+    .exp-header h2{
+      font-weight: bold;
+      font-size: 4.3em;
+    }
+    .bullet-1, .bullet-2, .bullet-3, .bullet-4, .bullet-5, .bullet-6, .bullet-7, .bullet-8{
+      width:30%;
+    }
+    .exp-tag{
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .services-area{
+      padding: 90px 28px 40px 28px;
+    }
+    .section-1{
+      padding-top: 80px;
+    }
+  }
