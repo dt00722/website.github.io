@@ -51,12 +51,12 @@ z-index: 11;
   .rectangle{
     text-align: left;
     height: 350px;
-    width: 520px;
+    width: 600px;
     margin-top: 40px;
     margin-left: 840px;
     padding-left: 50px;
     padding-top: 30px;
-    background-color: rgb(59, 141, 218);
+    background-color: rgb(130, 191, 248);
     position: relative;
     z-index: 10;
   }
