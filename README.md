@@ -10,4 +10,4 @@ resources to know about their college and the life ahead. Looking into the matte
 for an overview of the college life and free resources to excel the exams and coming journey.
 
 
-[zosh.jpg]
+![zosh.jpg]
