@@ -51,7 +51,7 @@ z-index: 11;
   .rectangle{
     text-align: left;
     height: 350px;
-    width: 660px;
+    width: 700px;
     margin-top: 40px;
     margin-left: 840px;
     padding-left: 50px;
@@ -81,7 +81,7 @@ z-index: 11;
   
  
  .card{
-   background-color: pink;
+   background-color: rgb(130, 191, 248);
    position: absolute;
    z-index: 20;
  }
@@ -89,12 +89,12 @@ z-index: 11;
  .rectangle3{
   text-align: left;
   height: 350px;
-  width: 520px;
+  width: 660px;
   margin-top: 40px;
   margin-left: 840px;
   padding-left: 50px;
   padding-top: 30px;
-  background-color: rgb(59, 141, 218);
+  background-color: rgb(130, 191, 248);
   position: relative;
   z-index: 10;
 }
