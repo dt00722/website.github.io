@@ -10,4 +10,41 @@ resources to know about their college and the life ahead. Looking into the matte
 for an overview of the college life and free resources to excel the exams and coming journey.
 
 
-![socie.jpg](https://dt00722.github.io/website.github.io/)
+
+# One Stop Solution :
+
+This Project is a website that is committed to providing freshers with the necessary information and all the resources to succeed in college journey. 
+
+# Vision  :sparkles:
+`OneStopHelp` primarily focuses on students lacking resources to study for their exams. The problem lies in which material is valuable and which isn’t. Students don’t have time to surf the net in the hope of stumbling upon valuable websites for studying. So this web app provides students all the resources needed by them including notes, books, previous year exam papers and more.
+
+# Objective :zap:
+This website will help students by providing all the resources and help to succeed in college.
+
+# Table of contents : :
+
+*	Study Material
+*	Fests
+*	Societies
+*	Creators
+
+
+# Tools :wrench: :
+
+Tools used will be:
+* HTML
+* CSS
+* JavaScript
+* PHP
+
+
+
+
+# Project Admins :sunglasses:
+* [@Wagisha29](https://github.com/Wagisha29)
+
+
+
+
+
+
