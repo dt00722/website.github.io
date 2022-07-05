@@ -42,6 +42,8 @@ Tools used will be:
 
 # Project Admins :sunglasses:
 * [@Wagisha29](https://github.com/Wagisha29)
+* [@meenal1911](https://github.com/meenal1911)
+* [@Anshika126](https://github.com/Anshika126)
 
 
 
